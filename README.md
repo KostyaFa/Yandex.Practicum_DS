@@ -1,2 +1,2 @@
-# Yandex.Practicum_DS
+# **Yandex.Practicum_DS**
 Коллекция сделанных мною проектов во время курса
